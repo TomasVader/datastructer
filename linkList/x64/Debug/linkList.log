@@ -1,0 +1,4 @@
+﻿  linkList.cpp
+D:\TechneckSoftwareOfKongXiangyu\datastruct\linkList\linkList.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\TechneckSoftwareOfKongXiangyu\datastruct\linkList\linkList.cpp(62,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  linkList.vcxproj -> D:\TechneckSoftwareOfKongXiangyu\datastruct\linkList\x64\Debug\linkList.exe
